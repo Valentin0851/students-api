@@ -67,4 +67,4 @@ go.work.sum
 .env
 
 storage
-config
+/config
